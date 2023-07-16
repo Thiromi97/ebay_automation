@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="tests">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome" />
+        <parameter name="url" value="https://www.ebay.com/" />
+        <classes>
+            <class name="ebayTest" />
+        </classes>
+    </test>
+    <test name="EdgeTest">
+        <parameter name="browser" value="edge" />
+        <parameter name="url" value="https://www.ebay.com/" />
+        <classes>
+            <class name="ebayTest" />
+        </classes>
+    </test>
+</suite>
