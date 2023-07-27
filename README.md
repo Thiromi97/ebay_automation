@@ -1,9 +1,7 @@
 <!--- Add your awesome banner here --->
-![Your Awesome Banner](link-to-your-banner-image.png)
-
-# 📱 Selenium WebDriver eBay Automation Project 🚀
-
-This repository contains a fun and exciting test automation project for buying a mobile phone from eBay.com using Selenium WebDriver with Java. Let's automate like a boss! 💪
+<p align="center">
+  <img src="https://github.com/Thiromi97/ebay_automation/blob/main/my%20banner.png?raw=true" alt="Your Awesome Banner" width="600" height="300">
+</p>
 
 ## About Me 👩‍💻
 
@@ -11,6 +9,10 @@ Hi there! I'm [Thiromi](https://www.linkedin.com/in/thiromi-dasanayaka-307441250
 
 📧 **Email**: dasanayakathiromi@gmail.com 💌
 🔗 **LinkedIn**: [https://www.linkedin.com/in/thiromi-dasanayaka-307441250/](https://www.linkedin.com/in/thiromi-dasanayaka-307441250/)
+
+# 📱 Selenium WebDriver eBay Automation Project 🚀
+
+This repository contains a fun and exciting test automation project for buying a mobile phone from eBay.com using Selenium WebDriver with Java. Let's automate like a boss! 💪
 
 ## Project Overview 👁️‍🗨️
 
