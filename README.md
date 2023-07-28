@@ -12,6 +12,12 @@ Hi there! I'm [Thiromi](https://www.linkedin.com/in/thiromi-dasanayaka-307441250
 
 # 📱 Selenium WebDriver eBay Automation Project 🚀
 
+<!-- Add the following HTML code to your README.md file -->
+<p align="left">
+  <img src="https://github.com/Thiromi97/ebay_automation/blob/main/ebay.png?raw=true" width="200" height="200" alt="Project Logo" style="border-radius: 50%;">
+</p>
+
+
 This repository contains a fun and exciting test automation project for buying a mobile phone from eBay.com using Selenium WebDriver with Java. Let's automate like a boss! 💪
 
 ## Project Overview 👁️‍🗨️
