@@ -1,6 +1,6 @@
 <!--- Add your awesome banner here --->
 <p align="center">
-  <img src="https://github.com/Thiromi97/ebay_automation/blob/main/my%20banner.png?raw=true" alt="Your Awesome Banner" width="600" height="300">
+  <img src="https://raw.githubusercontent.com/Thiromi97/ebay_automation/main/banner.png" alt="Your Awesome Banner">
 </p>
 
 ## About Me 👩‍💻
